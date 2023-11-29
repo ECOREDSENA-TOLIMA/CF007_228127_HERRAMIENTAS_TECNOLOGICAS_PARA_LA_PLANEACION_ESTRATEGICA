@@ -117,7 +117,7 @@ export default {
         'Ministerio de Tecnologías de la Información y las Comunicaciones. (2023). Guía General MAE.G.PA - Proceso de Arquitectura Empresarial.',
       tipo: 'Documento',
       link:
-        'https://www.mintic.gov.co/arquitecturaempresarial/630/articles-237652_recurso_1.pdf',
+        'https://www.mintic.gov.co/portal/715/articles-273207_recurso_2.pdf',
     },
     {
       tema:

@@ -687,7 +687,7 @@
                   h3 Normatividad
                   p Para mayor profundidad, la normatividad relacionada con las estrategias de implementación se puede consultar en la guía general de un proceso de arquitectura empresarial, ubicada en material complementario.
                 .col-sm-auto
-                  a.boton.color-acento-botones.texto-blanco(href="https://www.mintic.gov.co/arquitecturaempresarial/630/articles-237652_recurso_1.pdf" target="_blank")
+                  a.boton.color-acento-botones.texto-blanco(href="https://www.mintic.gov.co/portal/715/articles-273207_recurso_2.pdf" target="_blank")
                     span Enlace web
                     i.fas.fa-file-video
 
