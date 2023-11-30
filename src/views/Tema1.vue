@@ -429,7 +429,7 @@
     .row.justify-content-center.mb-5(data-aos="fade-down-left") 
       .col-lg-10.col-12
         .p-4.cajon.color-primario
-          p.mb-0 #[b Stakeholders:] son partes interesadas o actores involucrados, individuos, grupos o entidades que tienen un interés, influencia o participación en un proyecto, una organización o una iniciativa.
+          p.mb-0 #[em Stakeholders]: son partes interesadas o actores involucrados, individuos, grupos o entidades que tienen un interés, influencia o participación en un proyecto, una organización o una iniciativa.
 
     .row.justify-content-center.mb-5
       .col-12.col-lg-10(data-aos="fade-left")
