@@ -214,9 +214,20 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
-          centro: 'Nombre centro de formación',
+          nombre: 'Luis Eyder Ortiz',
+          cargo: 'Experto Temático ',
+          centro:
+            'Regional Santander - Centro de la Industria, la Empresa y los Servicios',
+        },
+        {
+          nombre: 'María Fernanda Chacón Castro',
+          cargo: 'Diseñadora Instruccional',
+          centro: 'Regional Distrito Capital - Centro de Gestión Industrial',
+        },
+        {
+          nombre: 'Ana Catalina Córdoba Sus',
+          cargo: 'Asesora Metodológica',
+          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
         },
         {
           nombre: 'Rafael Neftalí Lizcano Reyes',
@@ -225,9 +236,19 @@ export default {
             'Regional Santander - Centro Industrial del Diseño y la Manufactura',
         },
         {
-          nombre: 'Sandra Patricia Hoyos Sepúlveda',
+          nombre: 'Julia Isabel Roberto',
           cargo: 'Corrector de Estilo',
           centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
+        },
+        {
+          nombre: 'Juan Guillermo Zuluaga Saavedra',
+          cargo: 'Expero Temático',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
+        },
+        {
+          nombre: 'Humberto Arias Díaz',
+          cargo: 'Diseñador Instruccional',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
         {
           nombre: 'María Inés Machado López',
@@ -255,13 +276,18 @@ export default {
           centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
         {
+          nombre: 'Maria Alejandra Vera Briceño',
+          cargo: 'Producctor y Animador Audiovisual',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
+        },
+        {
           nombre: 'Nelson Iván Vera Briceño',
-          cargo: 'Producción Audiovisual',
+          cargo: 'Producctor y Animador Audiovisual',
           centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
         {
           nombre: 'Oleg Litvin',
-          cargo: 'Animador',
+          cargo: 'Producctor y Animador Audiovisual',
           centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
         {
@@ -275,13 +301,13 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Jorge Bustos Gómez',
-          cargo: 'Validación y vinculación en plataforma LMS',
+          nombre: 'Gilberto Naranjo Farfán',
+          cargo: 'Validación de Contenidos Accesibles',
           centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
         {
-          nombre: 'Gilberto Naranjo Farfán',
-          cargo: 'Validación de contenidos accesibles',
+          nombre: 'Jorge Bustos Gómez',
+          cargo: 'Validación y Vinculación en Plataforma LMS',
           centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
       ],

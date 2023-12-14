@@ -613,16 +613,16 @@
             | El profesional requiere construir un catálogo de servicios, en el cual definirá los objetivos y los beneficios, además de socializarlos con los usuarios internos y externos, generando una cultura de compromiso y lealtad para la gestión documental en la empresa.
           li.mb-2
             i.fas.fa-angle-right(style="color:#FFAE7E")
-            | Luego de realizar el seguimiento a los requerimientos, los debe enfocar en un software; de esta forma pasarán de requerimientos administrativos a software, los subdividirá en características, estructura y tipos de requerimientos.
+            | Luego de realizar el seguimiento a los requerimientos, los debe enfocar en un #[em software]; de esta forma pasarán de requerimientos administrativos a #[em software], los subdividirá en características, estructura y tipos de requerimientos.
 
-    p.mb-4(data-aos="flip-left") Pero, ¿cómo se adelanta la gestión documental en un software?.
+    p.mb-4(data-aos="flip-left") Pero, ¿cómo se adelanta la gestión documental en un #[em software]?.
 
     .row.justify-content-center.mb-5(data-aos="fade-down-left") 
       .col-lg-10.col-12
         .p-4.cajon.color-primario
-          p.mb-0 La gestión documental en un software se enfoca en los #[b casos de uso], los cuales se definen como la #[b secuencia de iteraciones que se desarrollan en un sistema, junto con sus actores en respuesta a un evento.] Se emplean los #[b diagramas de caso de uso] que especifican la comunicación y el comportamiento del sistema mediante la interacción con los usuarios.
+          p.mb-0 La gestión documental en un #[em software] se enfoca en los #[b casos de uso], los cuales se definen como la #[b secuencia de iteraciones que se desarrollan en un sistema, junto con sus actores en respuesta a un evento.] Se emplean los #[b diagramas de caso de uso] que especifican la comunicación y el comportamiento del sistema mediante la interacción con los usuarios.
 
-    p.mb-4(data-aos="flip-left") El profesional debe documentarse sobre cada uno de los procesos de implementación del programa de gestión documental. Luego, gestionará los recursos para que estos procesos se ejecuten en una aplicación de software. En este sentido, es importante mencionar que algunos de los procesos de gestión documental se pueden referenciar desde los siguientes casos de uso, en las figuras 7 y 8: 
+    p.mb-4(data-aos="flip-left") El profesional debe documentarse sobre cada uno de los procesos de implementación del programa de gestión documental. Luego, gestionará los recursos para que estos procesos se ejecuten en una aplicación de #[em software]. En este sentido, es importante mencionar que algunos de los procesos de gestión documental se pueden referenciar desde los siguientes casos de uso, en las figuras 7 y 8: 
 
     .row.justify-content-center.mb-5
       .col-12.col-lg-10(data-aos="fade-left")
@@ -667,7 +667,7 @@
         i.fas.fa-circle.fa-cfx(style="color:#304C8E")
         | #[b Símbolo:] en un diagrama de casos de uso, la relación "#[em extend]" se representa con una flecha punteada que apunta desde el caso de uso extendido hacia el caso de uso de extensión. La línea punteada incluye una etiqueta que describe la condición bajo la cual se activa la extensión.
 
-    p.mb-3(data-aos="flip-left") Es necesario comprender que en el software también se realiza una programación de código interno #[em backend] y una codificación visual o interfaz #[em frontend], además de relacionarlo con una base de datos.
+    p.mb-3(data-aos="flip-left") Es necesario comprender que en el #[em software] también se realiza una programación de código interno #[em backend] y una codificación visual o interfaz #[em frontend], además de relacionarlo con una base de datos.
     p.mb-4(data-aos="flip-left") De acuerdo con lo que se ha analizado se puede preguntar ¿cuáles son los requerimientos tecnológicos en el marco de AE, del gobierno de riesgo y cumplimiento?
 
     ul.lista-ul.ms-3.ms-lg-5.mb-5(data-aos="fade-down-left")
@@ -727,7 +727,7 @@
               i.fas.fa-circle.fa-cfx(style="color:#304C8E")
               | #[b Entregable evaluación proyecto:] se deben comprender las lecciones aprendidas en el programa de gestión documental e involucrar a todos los trabajadores en los procesos, para lograr la madurez institucional de AE. 
 
-    p.mb-5(data-aos="flip-left") En la implementación del software se puede utilizar el marco de referencia de #[b #[em TOGAF]], orientado a planificar, diseñar y efectuar la AE de una organización; para su aplicación el profesional en tecnología debe obtener una certificación. Este marco es una guía que incluye los siguientes pasos:
+    p.mb-5(data-aos="flip-left") En la implementación del #[em software] se puede utilizar el marco de referencia de #[b #[em TOGAF]], orientado a planificar, diseñar y efectuar la AE de una organización; para su aplicación el profesional en tecnología debe obtener una certificación. Este marco es una guía que incluye los siguientes pasos:
 
     .row.justify-content-center.mb-5(data-aos="fade-left") 
       .col-lg-10.col-12
@@ -750,7 +750,7 @@
             .row(titulo="")
               .col-md-8.col-12.mb-4.mb-md-0
                 h4 Soporte 
-                p Facilita una serie de guías, técnicas y entregables para aplicar correctamente el modelo #[b TOGAF].
+                p Facilita una serie de guías, técnicas y entregables para aplicar correctamente el modelo #[em TOGAF].
               .col-md-4.col-12
                 figure
                   img(src='@/assets/curso/temas/tema2/tema2-15.png', alt='')
@@ -762,7 +762,7 @@
                 figure
                   img(src='@/assets/curso/temas/tema2/tema2-16.png', alt='')
 
-    p.mb-5(data-aos="flip-left") Como se ha mencionado, TOGAF es un marco de trabajo para la AE, que facilita que la organización adapte el programa de gestión documental sistematizado según la visión empresarial.
+    p.mb-5(data-aos="flip-left") Como se ha mencionado, #[em TOGAF] es un marco de trabajo para la AE, que facilita que la organización adapte el programa de gestión documental sistematizado según la visión empresarial.
 
 
 

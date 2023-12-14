@@ -10,11 +10,11 @@
       h1 Introducción
     
     .mb-5(data-aos="zoom-down") 
-      p Bienvenidos al componente formativo relacionado con el entendimiento estratégico de la Arquitectura Empresarial (AE), en el cual se van a ver aspectos importantes, como los siguientes:
+      p Bienvenidos al componente formativo relacionado con el entendimiento estratégico de la Arquitectura Empresarial (AE), en el cual se tratarán aspectos importantes, como los siguientes:
 
     figure(data-aos="zoom-left")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/" title="Entendimiento estratégico de la arquitectura empresarial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/dgc_e-86v0U" title="Entendimiento estratégico de la arquitectura empresarial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
 </template>
 

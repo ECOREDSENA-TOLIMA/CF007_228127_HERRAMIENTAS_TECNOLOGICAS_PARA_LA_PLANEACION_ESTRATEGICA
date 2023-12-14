@@ -29,7 +29,7 @@
         figure
           img.d-none.d-sm-none.d-md-block(src='@/assets/curso/temas/tema1/fig-1a.svg', alt='La figura 1, indica que el marco de referencia de la AE a nivel nacional, involucra la arquitectura propia del negocio (a que se dedica), y la arquitectura correspondiente con los recursos tecnológicos que requiere para su funcionamiento.')
           img.d-block.d-md-none(src='@/assets/curso/temas/tema1/fig-1b.svg', alt='La figura 1, indica que el marco de referencia de la AE a nivel nacional, involucra la arquitectura propia del negocio (a que se dedica), y la arquitectura correspondiente con los recursos tecnológicos que requiere para su funcionamiento.') 
-
+          figcaption Nota. Adaptado de (The Open Group, 2018)
     p.mb-5(data-aos="flip-left") El objetivo de la arquitectura de TI es lograr entender el estado actual de la institución, en cuanto a los aspectos que se relacionen con la tecnología, de manera que se establezcan sus capacidades para que puedan ser mejoradas, eliminadas o adquiridas. 
 
     .row.justify-content-center.mb-5(data-aos="fade-down-left") 
