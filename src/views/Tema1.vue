@@ -115,7 +115,7 @@
     ul.lista-ul.mb-4(data-aos="fade-down")
       li
         i.fas.fa-atom(style="color: #60CB28")
-        | #[b De acuerdo con su nivel de complimiento]
+        | #[b De acuerdo con su nivel de cumplimiento]
 
     .row.justify-content-center.mb-5(data-aos="fade-down")
       .col-md-11.col-lg-10
@@ -406,7 +406,7 @@
           p.mb-0 Los requerimientos son las condiciones o capacidades que debe conservar un sistema, un producto, un servicio o un componente para satisfacer las necesidades mediante un contrato, cumpliendo con estándares, especificaciones y demás documentos de manera formal. 
     
     p.mb-3(data-aos="flip-right") Una vez finalizado los procesos anteriores, se puede analizar las #[b características que deben tener los requerimientos], en este sentido, se indica que según el tipo de necesidad será el analista del negocio, quien decida cuál será el detalle exigido para cada nivel; aunque en algunos casos se recomienda que se realicen la mayor cantidad de especificaciones, con el fin de lograr mayor precisión en algunos requerimientos teniendo en cuenta el nivel de las necesidades.
-    p.mb-5(data-aos="flip-right") Entonces, ¿cuáles son los criterios o características que se deben considerar al establecer los requerimientos?.
+    p.mb-5(data-aos="flip-right") Entonces, ¿cuáles son los criterios o características que se deben considerar al establecer los requerimientos?
 
     .row.justify-content-center.mb-4(data-aos="fade-right")
       .col-12.col-lg-10
@@ -439,7 +439,7 @@
           img.d-none.d-sm-none.d-md-block(src='@/assets/curso/temas/tema1/fig-5a.svg', alt='En la figura se observa la estructura piramidal, de arriba hacia abajo: Necesidades: Solicitud del interesado. Características: Servicio proporcionado por el sistema. Casos de uso: Descripción de los comportamientos o acciones en el sistema. Escenarios: Se relacionan con las secuencias de las acciones o rutas a través de un caso de uso. Casos de prueba: Especificaciones de cada una de las entradas necesarias para la prueba, la condición de su ejecución con el resultado esperado, verificando si los requisitos complementarios se aplican correctamente.')
           img.d-block.d-md-none(src='@/assets/curso/temas/tema1/fig-5b.svg', alt='En la figura se observa la estructura piramidal, de arriba hacia abajo: Necesidades: Solicitud del interesado. Características: Servicio proporcionado por el sistema. Casos de uso: Descripción de los comportamientos o acciones en el sistema. Escenarios: Se relacionan con las secuencias de las acciones o rutas a través de un caso de uso. Casos de prueba: Especificaciones de cada una de las entradas necesarias para la prueba, la condición de su ejecución con el resultado esperado, verificando si los requisitos complementarios se aplican correctamente.') 
 
-    p.mb-5(data-aos="flip-right") Así mismo, es fundamental retomar el concepto de requerimientos de #[em software] y conocer cuáles son sus tipos:
+    p.mb-5(data-aos="flip-right") Asímismo, es fundamental retomar el concepto de requerimientos de #[em software] y conocer cuáles son sus tipos:
 
     .row.justify-content-center.mb-5(data-aos="fade-down")
       .col-md-11.col-lg-10

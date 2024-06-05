@@ -615,7 +615,7 @@
             i.fas.fa-angle-right(style="color:#FFAE7E")
             | Luego de realizar el seguimiento a los requerimientos, los debe enfocar en un #[em software]; de esta forma pasarán de requerimientos administrativos a #[em software], los subdividirá en características, estructura y tipos de requerimientos.
 
-    p.mb-4(data-aos="flip-left") Pero, ¿cómo se adelanta la gestión documental en un #[em software]?.
+    p.mb-4(data-aos="flip-left") Pero ¿cómo se adelanta la gestión documental en un #[em software]?
 
     .row.justify-content-center.mb-5(data-aos="fade-down-left") 
       .col-lg-10.col-12
