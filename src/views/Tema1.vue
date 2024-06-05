@@ -422,7 +422,7 @@
               p El requisito debe ser muy importante y se debe comprender sin necesidad de relacionarse o que dependa de otro.
           .row(titulo="Consistente, redundante y completo")
             .col-12
-              p No se deben presentar conflictos entre los requerimientos. Así mismo, debe ser formulado una sola vez y debe ser específico y total.
+              p No se deben presentar conflictos entre los requerimientos. Asimismo, debe ser formulado una sola vez y debe ser específico y total.
 
     p.mb-5(data-aos="flip-right") En la siguiente figura se presenta la estructura de los requerimientos que se pueden dividir según su origen y características, situando las necesidades de los #[em stakeholders]: 
 

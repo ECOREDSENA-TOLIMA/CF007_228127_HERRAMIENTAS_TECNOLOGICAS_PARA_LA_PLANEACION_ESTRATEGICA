@@ -551,7 +551,7 @@
               img(src='@/assets/curso/temas/tema2/tema2-10.png', alt='')
 
     p.mb-3(data-aos="flip-left") Cada uno de estos pasos impactan de buena manera los procesos de gestión documental para la organización, y mejoran las estrategias de la compañía.
-    p.mb-4(data-aos="flip-left") Así mismo, es esencial tener presente que implementar un proceso de gestión documental en la organización, conlleva como beneficio la #[b automatización y optimización del manejo de los documentos y archivos]. Para realizar estos procesos de manera adecuada se necesita atención, cultura, tiempo y capacidad de la organización, además de las siguientes consideraciones:
+    p.mb-4(data-aos="flip-left") Asimismo, es esencial tener presente que implementar un proceso de gestión documental en la organización, conlleva como beneficio la #[b automatización y optimización del manejo de los documentos y archivos]. Para realizar estos procesos de manera adecuada se necesita atención, cultura, tiempo y capacidad de la organización, además de las siguientes consideraciones:
 
     .row.align-items-center.justify-content-center.mb-4(data-aos="zoom-in-down") 
       .col-lg-10.col-12
