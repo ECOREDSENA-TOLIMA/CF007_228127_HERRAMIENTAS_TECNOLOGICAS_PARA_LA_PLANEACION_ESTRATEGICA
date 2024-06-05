@@ -9,8 +9,7 @@
     
     .row.justify-content-center.mb-5(data-aos="fade-down-left")  
       .col-12(data-aos="zoom-out-down")
-        .cajon-b.color-primario.px-0.py-2
-          p Para lograr asimilar la normatividad relacionada con la arquitectura empresarial se deben conocer los lineamientos necesarios en las guías, modelos, artefactos y manuales que encaminen la integración de una buena AE para la institución o entidad. El Ministerio de las Tecnologías de la Información y las Comunicaciones- MinTic, pone a disposición una serie de documentos para apoyar dichos procesos.
+        p Para lograr asimilar la normatividad relacionada con la arquitectura empresarial se deben conocer los lineamientos necesarios en las guías, modelos, artefactos y manuales que encaminen la integración de una buena AE para la institución o entidad. El Ministerio de las Tecnologías de la Información y las Comunicaciones- MinTic, pone a disposición una serie de documentos para apoyar dichos procesos.
       .col-12(data-aos="zoom-out-down")
         p.mb-3 De igual modo, hay que tener en cuenta que la entidad que desee alinearse de manera integral con la AE, debe apoyarse en un profesional experto en la materia para implementar de buena manera cada uno de los #[em ítems] que pide la norma. Estos profesionales que se dedican a la implementación de AE son los llamados #[em arquitectos de TI.] 
         p.mb-3 Existe algunas fases para el desarrollo de la AE en una organización, estas se consisten en un proceso iterativo donde en cada ejercicio se realizan las fases 2 y 3 del gobierno, utilizando la estrategia del uso y la aplicación de la AE. 
