@@ -614,7 +614,7 @@
             i.fas.fa-angle-right(style="color:#FFAE7E")
             | Luego de realizar el seguimiento a los requerimientos, los debe enfocar en un #[em software]; de esta forma pasarán de requerimientos administrativos a #[em software], los subdividirá en características, estructura y tipos de requerimientos.
 
-    p.mb-4(data-aos="flip-left") Pero ¿cómo se adelanta la gestión documental en un #[em software]?
+    p.mb-4(data-aos="flip-left") Pero, ¿cómo se adelanta la gestión documental en un #[em software]?
 
     .row.justify-content-center.mb-5(data-aos="fade-down-left") 
       .col-lg-10.col-12
@@ -687,7 +687,7 @@
                   p Para mayor profundidad, la normatividad relacionada con las estrategias de implementación se puede consultar en la guía general de un proceso de arquitectura empresarial, ubicada en material complementario.
                 .col-sm-auto
                   a.boton.color-acento-botones.texto-blanco(href="https://www.mintic.gov.co/portal/715/articles-273207_recurso_2.pdf" target="_blank")
-                    span Enlace web
+                    span Enlace Web
                     i.fas.fa-file-video
 
     .bloque-texto-g.bloque-texto-g--inverso.color-primario.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-left")
