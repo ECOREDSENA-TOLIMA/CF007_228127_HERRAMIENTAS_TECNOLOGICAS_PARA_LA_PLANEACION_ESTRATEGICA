@@ -60,7 +60,7 @@
       .tarjeta.tarjeta--azul.p-4(titulo="Requerimientos del sistema")
         h4 Requerimientos del sistema
         p Son especificaciones detalladas que describen las características, funciones y restricciones que un sistema de #[em software] o #[em hardware] debe cumplir, para satisfacer las necesidades y expectativas de los usuarios y las partes interesadas.
-      .tarjeta.tarjeta--azul.p-4(titulo="Requerimientos del software")
+      .tarjeta.tarjeta--azul.p-4(titulo="Requerimientos del <em>software</em>")
         h4 Requerimientos del #[em software]
         p Son las especificaciones, condiciones y restricciones detalladas que definen cómo debe funcionar y comportarse un programa de #[em software]. Estos requerimientos se utilizan como base para el diseño, desarrollo, pruebas y mantenimiento del #[em software].
       .tarjeta.tarjeta--azul.p-4(titulo="Requerimiento de dominio")
